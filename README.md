@@ -1,3 +1,10 @@
+# Os projetos estão em: 
+
+https://github.com/CrisPinho/livros-react.git
+https://github.com/CrisPinho/livros-next.git
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
