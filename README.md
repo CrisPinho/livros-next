@@ -1,7 +1,7 @@
 # Os projetos estão em: 
 
-https://github.com/CrisPinho/livros-react.git
-https://github.com/CrisPinho/livros-next.git
+
+https://github.com/CrisPinho/livros-react.git|https://github.com/CrisPinho/livros-next.git
 
 
 
